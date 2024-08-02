@@ -8,16 +8,27 @@ export default {
 
 <template>
 
-<div class="container">
+    <footer>
 
-    <p>Footer</p>
+        <div class="container">
+        
+            <p>Footer</p>
+        
+        </div>
+        
+    </footer>
 
-</div>
 
 </template>
 
-<style lang="scss">
+<style lang="scss" scoped>
 
+
+footer {
+
+    text-align: center;
+
+}
 
 
 </style>

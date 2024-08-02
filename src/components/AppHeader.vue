@@ -8,16 +8,26 @@ export default {
 
 <template>
 
-<div class="container">
+    <nav>
 
-    <h1>Travel-app</h1>
+        <div class="container">
+        
+            <h1>Travel-app</h1>
+        
+        </div>
 
-</div>
+    </nav>
+
 
 </template>
 
-<style lang="scss">
+<style lang="scss" scoped>
 
+nav {
+    
+    text-align: center;
+
+}
 
 
 </style>
