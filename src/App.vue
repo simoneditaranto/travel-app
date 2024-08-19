@@ -23,7 +23,7 @@ export default {
     
   <AppHeader></AppHeader>
 
-  <AppMain></AppMain>
+  <router-view></router-view>
 
   <AppFooter></AppFooter>
 
